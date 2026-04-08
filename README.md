@@ -1,4 +1,4 @@
-# Unix shell - great!
+# Unix shell - great but not great!
 
 ## Content
 
